@@ -5,7 +5,7 @@ I'm thrilled to introduce my latest project, **EduFree**! 🚀
 
 **EduFree** is a platform crafted to provide learners with **free and accessible educational resources** across various domains. The mission is simple: make quality education **accessible to everyone, everywhere**.  
 
-🔗 **Explore EduFree:** [EduFree](https://lnkd.in/gtMMV5H7)  
+🔗 **Explore EduFree:** https://vikas4das.github.io/EduFree/
 
 ---
 
